@@ -1,1 +1,1 @@
-
+This Python client will be available soon. For details on the pan-European Aggregated Water/Ice Cover products, visit the Copernicus Land Monitoring Service portal at https://land.copernicus.eu/en/products/water-bodies.
