@@ -93,7 +93,6 @@ def format_awic_product(awic, index):
 class AwicRequest(object):
     '''
     Request awic products in the catalogue.
-     * https://cryo.land.copernicus.eu/awic/
     '''
 
     # Request URL root
